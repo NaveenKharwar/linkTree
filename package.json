@@ -1,0 +1,23 @@
+{
+  "name": "linktree",
+  "version": "1.0.0",
+  "description": "I hate UI of https://linktr.ee so, here is mine. 😑",
+  "main": "index.js",
+  "dependencies": {
+    "autoprefixer": "^9.8.2",
+    "tailwindcss": "^1.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenKharwar/linkTree.git"
+  },
+  "author": "Naveen Kharwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenKharwar/linkTree/issues"
+  },
+  "homepage": "https://github.com/NaveenKharwar/linkTree#readme"
+}
